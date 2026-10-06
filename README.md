@@ -4,7 +4,13 @@ A curated collection of 10 stunning motion video prompts and skills made with Cl
 
 All content is hosted directly in this repository for easy access by AI coding assistants (Claude, Codex, Antigravity) and for human inspiration.
 
-*Special thanks to [prompt-motion.com](https://prompt-motion.com/) for curating these incredible examples.*
+### 🙏 Credits & Attribution
+
+This library is based on the amazing curation by **[@p4nthera_](https://x.com/p4nthera_)**.
+- **Original Source & Showcase:** [prompt-motion.com](https://t.co/pAGK4Y8Yqs)
+- **Creator Profile:** [@p4nthera_ on X](https://x.com/p4nthera_)
+
+All original video concepts and prompts belong to their respective creators featured in the showcase.
 
 ---
 
