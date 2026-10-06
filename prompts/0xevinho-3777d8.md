@@ -8,7 +8,7 @@ make a similar version but with a crypto reference
 
 ## Media
 
-![Video](../assets/gifs/0xevinho-3777d8.gif)
+![Preview](../assets/gifs/0xevinho-3777d8.gif)
 
 ---
 *Source: [https://prompt-motion.com/0xevinho-3777d8](https://prompt-motion.com/0xevinho-3777d8)*

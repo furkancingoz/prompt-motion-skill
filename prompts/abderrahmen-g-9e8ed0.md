@@ -8,7 +8,7 @@ You are a professional videographer. Create me a high-definition, creative, play
 
 ## Media
 
-![Video](../assets/gifs/abderrahmen-g-9e8ed0.gif)
+![Preview](../assets/gifs/abderrahmen-g-9e8ed0.gif)
 
 ---
 *Source: [https://prompt-motion.com/abderrahmen-g-9e8ed0](https://prompt-motion.com/abderrahmen-g-9e8ed0)*

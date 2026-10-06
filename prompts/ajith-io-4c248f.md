@@ -8,7 +8,7 @@ Make a dynamic 40-second motion graphics video on Distilbook that shows what an 
 
 ## Media
 
-![Video](../assets/gifs/ajith-io-4c248f.gif)
+![Preview](../assets/gifs/ajith-io-4c248f.gif)
 
 ---
 *Source: [https://prompt-motion.com/ajith-io-4c248f](https://prompt-motion.com/ajith-io-4c248f)*

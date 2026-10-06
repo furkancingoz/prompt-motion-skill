@@ -8,7 +8,7 @@
 
 ## Media
 
-![Video](../assets/gifs/allforbigfire-86ff3c.gif)
+![Preview](../assets/gifs/allforbigfire-86ff3c.gif)
 
 ---
 *Source: [https://prompt-motion.com/allforbigfire-86ff3c](https://prompt-motion.com/allforbigfire-86ff3c)*

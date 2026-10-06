@@ -8,7 +8,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 
 ## Media
 
-![Video](../assets/gifs/ajith-io-b5626e.gif)
+![Preview](../assets/gifs/ajith-io-b5626e.gif)
 
 ---
 *Source: [https://prompt-motion.com/ajith-io-b5626e](https://prompt-motion.com/ajith-io-b5626e)*

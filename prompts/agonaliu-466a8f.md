@@ -8,7 +8,7 @@ Make a dynamic 15-second motion graphics video for Trezio app that shows what an
 
 ## Media
 
-![Video](../assets/gifs/agonaliu-466a8f.gif)
+![Preview](../assets/gifs/agonaliu-466a8f.gif)
 
 ---
 *Source: [https://prompt-motion.com/agonaliu-466a8f](https://prompt-motion.com/agonaliu-466a8f)*

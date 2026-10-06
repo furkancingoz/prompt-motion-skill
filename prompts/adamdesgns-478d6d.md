@@ -8,7 +8,7 @@ make a dynamic 15-second motion graphics video that shows what an incredible mot
 
 ## Media
 
-![Video](../assets/gifs/adamdesgns-478d6d.gif)
+![Preview](../assets/gifs/adamdesgns-478d6d.gif)
 
 ---
 *Source: [https://prompt-motion.com/adamdesgns-478d6d](https://prompt-motion.com/adamdesgns-478d6d)*
