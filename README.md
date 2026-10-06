@@ -115,6 +115,19 @@ This library is based on the amazing curation by **[@p4nthera_](https://x.com/p4
 
 ---
 
+
+## 🧠 Special Agent Skills (4 Dedicated Skills)
+
+These are pre-packaged AI skills (CLI commands, hyperframes, and motion skill bundles):
+
+| # | Skill Name | Direct Link |
+|---|---|---|
+| 1 | Reddit marketing tool launch video | [`skills/anthonyriera-9b1b2a.md`](skills/anthonyriera-9b1b2a.md) |
+| 2 | Indian civilisation history film | [`skills/buildfastwithai-53234e.md`](skills/buildfastwithai-53234e.md) |
+| 3 | Animated agent session story | [`skills/jake11moran-a269c4.md`](skills/jake11moran-a269c4.md) |
+| 4 | Cinetic skill launch film | [`skills/lexnlin-6161a6.md`](skills/lexnlin-6161a6.md) |
+
+---
 ## 📚 Complete Archive (229 Motion Prompts & Skills)
 
 All prompts and skills are stored locally in the `prompts/` directory for instant AI lookup:
